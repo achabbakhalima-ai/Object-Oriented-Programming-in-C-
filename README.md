@@ -87,7 +87,19 @@ C++_Ateliers
 
 ## 💻 Compilation et exécution sous Windows
 
- git clone https://github.com/<ton-utilisateur>/C++_Ateliers.git
+1. Cloner le repository
+```bat
+git clone https://github.com/<ton-utilisateur>/C++_Ateliers.git
+```
+2. Aller dans le dossier de l'atelier souhaité
+```bat
 cd C++_Ateliers\Atelier1_POO
+```
+3. Compiler le fichier C++ (remplacer nom_du_fichier.cpp par ton fichier)
+```bat
 g++ nom_du_fichier.cpp -o nom_programme.exe
+```
+4. Exécuter le programme compilé
+```bat
 nom_programme.exe
+```
