@@ -87,8 +87,7 @@ C++_Ateliers
 
 ## 💻 Compilation et exécution sous Windows
 
- 
-git clone https://github.com/<ton-utilisateur>/C++_Ateliers.git
+ git clone https://github.com/<ton-utilisateur>/C++_Ateliers.git
 cd C++_Ateliers\Atelier1_POO
 g++ nom_du_fichier.cpp -o nom_programme.exe
 nom_programme.exe
