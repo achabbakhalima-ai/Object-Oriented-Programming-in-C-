@@ -9,6 +9,7 @@ Ce repository contient mes **ateliers de Programmation Orientée Objet (POO) en 
 ---
 
 ## 📁 Structure du repository
+```bat
 C++_Ateliers
 │
 ├── Atelier1_POO      (Types, expressions, tableaux dynamiques et pointeurs)
@@ -16,8 +17,7 @@ C++_Ateliers
 ├── Atelier3_POO      (Gestion dynamique, piles, listes chaînées et classes avancées)
 ├── Atelier4_POO      (Héritage, héritage multiple et contrôle d’accès)
 └── Atelier5_POO      (Templates, exceptions et opérateurs surchargés)
-
-
+```
 ---
 
 ## **Atelier 1 : Manipulation des types et tableaux dynamiques**
